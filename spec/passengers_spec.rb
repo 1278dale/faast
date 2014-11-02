@@ -4,6 +4,8 @@
 # should be able to touch out of station
 require 'passengers'
 
+let(:passengers) {Passengers.new}
+
 
 describe Passengers do
 

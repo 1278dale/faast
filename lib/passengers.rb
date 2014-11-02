@@ -1,4 +1,5 @@
 class Passengers
+  
   def enter?
     true
   end
