@@ -4,20 +4,19 @@ class Passenger
     @touchedin = false
   end
 
-  
-  def enter?
-    true
+  def enter(coach)
   end
 
-  def alight?
-    true
+  def touchedin?
+    @touchedin = false
   end
 
-  def touchin?
-    true
+  def alight(coach)
   end
 
-  def touchout?
-    true
+  def touchin(station)
+  end
+
+  def touchout(station)
   end
 end
