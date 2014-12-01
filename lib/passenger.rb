@@ -1,4 +1,9 @@
-class Passengers
+class Passenger
+
+  def initialize
+    @touchedin = false
+  end
+
   
   def enter?
     true

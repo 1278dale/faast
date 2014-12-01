@@ -1,8 +1,3 @@
-Implementing faast system to be deployed in London Underground
-
-The mayor of London has been really impressed by your work on the boris bikes project.
-
-He has contacted the Greater London Authority to access the Transport for London Software Development and Deployment specifications for the new FAAST Tube System ( Fast And Accessible Super Tube). Your task, if you choose() to accept it is to implement the **FAAST* system so that it can be deployed into the London underground network.
 
 The FAAST system will cater for the following:
 
