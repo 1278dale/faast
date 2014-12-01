@@ -37,10 +37,4 @@ let (:passenger) {Passenger.new}
     passenger.touchout(station)
     expect{station.to receive(:touchout)}
   end
-  
-
-
-  # it "should be able to touch out of station" do
-  #   expect(passenger.touchout?).to be true
-  # end
 end
